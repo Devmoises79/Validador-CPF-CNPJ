@@ -60,10 +60,10 @@ validador-cpf-cnpj/
 ```
 
 
-🙋‍♂️ Autor
-Moisés 
-[@github.com/devmoises79]
+# 🙋‍♂️ Autor
+- Moisés 
+- [@github.com/devmoises79]
 
 # Me siga no LinkedIn! 🚀🌟
-[@https://www.linkedin.com/in/moises-aniceto-71042a251/]
+- [@https://www.linkedin.com/in/moises-aniceto-71042a251/]
 
