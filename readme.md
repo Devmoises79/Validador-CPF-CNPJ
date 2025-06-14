@@ -59,8 +59,6 @@ validador-cpf-cnpj/
 └── README.md           # Documentação do projeto
 ```
 
-### 📄 Licença
-Este projeto está licenciado sob a MIT License.
 
 🙋‍♂️ Autor
 Moisés 
